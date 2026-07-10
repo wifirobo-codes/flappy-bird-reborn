@@ -18,12 +18,6 @@ This repository contains a lightweight game project focused on recreating the cl
 2. Install any required dependencies.
 3. Run the main game file.
 
-If you add a requirements file or setup instructions later, update this section with the exact steps.
-
 ## Contributing
 
 Contributions are open! Feel free to open issues and submit pull requests with improvements, bug fixes, or new features.
-
-## License
-
-No license has been provided for this project.
