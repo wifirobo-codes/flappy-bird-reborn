@@ -142,7 +142,3 @@ flappy-bird-reborn/
   - Ensure you run from repository with original folder structure intact.
 
 ---
-
-## License
-
-Add your preferred license here (MIT recommended for open-source projects).
